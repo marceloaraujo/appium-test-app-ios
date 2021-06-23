@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "a72cfa13a01c47e898884d5666a20ec9"
+build_time: [1624473762, 750856000]
+inputs:
+  "/Users/marcelo/Documents/Repos/ios/test-appium-ios/test-appium-ios/ViewController.swift": [9223372036, 854775807]
+  "/Users/marcelo/Documents/Repos/ios/test-appium-ios/test-appium-ios/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/marcelo/Documents/Repos/ios/test-appium-ios/test-appium-ios/SceneDelegate.swift": [9223372036, 854775807]
